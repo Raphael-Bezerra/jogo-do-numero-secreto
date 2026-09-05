@@ -1,5 +1,11 @@
 # Jogo do número secreto
 
+<p>
+  <a href="https://raphael-bezerra.github.io/jogo-do-numero-secreto/">
+    <img src="https://img.shields.io/badge/JOGAR%20AGORA-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
+</p>
+
 ## 🏷️ Sobre
 
 Projeto desenvolvido durante os estudos de **Lógica de Programação da Alura**.
